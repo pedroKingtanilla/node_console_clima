@@ -16,5 +16,5 @@ let lugarInfo = async (direccion)=>{
 } 
 
 lugarInfo(argv.direccion)
-    .then((respuesta)=>{console.log(`el lugar ${respuesta.lugar}, tiene un clima de ${respuesta.tiempo}`)})
+    .then((respuesta)=>{console.log(`El lugar ${respuesta.lugar}, tiene un clima de ${respuesta.tiempo}`)})
     .catch(err=>console.log);

@@ -1,4 +1,4 @@
-##Aplicacion de consola que recibe un lugar y entrega el clima
+##Aplicación de consola que recibe un lugar y entrega el clima
 
 Para iniciar las dependencias del proyecto
 ```npm install```
